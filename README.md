@@ -7,12 +7,12 @@
 
 > **😂如果您对当前项目有抵触心理，也欢迎您使用这个项目😂👉👉👉[iStoreOS-Native](https://github.com/Kwonelee/iStoreOS-Native)**
 
-> **使用此仓库必须设置机密token，Actions云编译固件时需要用到，通常在仓库设置里面。机密键名为 `GH_TOKEN`（严禁在仓库可视代码中填写，否则后果自负）**
+> **使用此仓库必须设置机密token，Actions云构建固件时需要用到，通常在仓库设置里面。机密键名为 `GH_TOKEN`（严禁在仓库可视代码中填写，否则后果自负）**
 
 # 😅Built-in package plan
 | 插件                     | 状态 | 插件                      | 状态  |
 |:------------------------:|:----:|:------------------------:|:----:|
-| ramfree释放内存          | ✅   | openlist2                | ⏳   |
+| ramfree释放内存          | ✅   | openlist2                | ✅   |
 | FileBrowser文件浏览      | ⏳   | adguardhome              | ✅   |
 | lucky                    | ⏳   | luci-app-amlogic        | ✅   |
 | 其他                     | ⏳   |                         |       |
