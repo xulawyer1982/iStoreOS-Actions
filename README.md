@@ -7,13 +7,13 @@
   <img src="https://img.shields.io/github/forks/Kwonelee/iStoreOS-Actions.svg?style=for-the-badge&color=ff69b4"/>
   <img src="https://img.shields.io/github/license/Kwonelee/iStoreOS-Actions.svg?style=for-the-badge&color=blueviolet"/>
 
-  [![](https://img.shields.io/badge/-目录:-696969.svg)](#-readme-)
+  [![](https://img.shields.io/badge/-目录:-696969.svg)](#readme)
   [![](https://img.shields.io/badge/-项目介绍-FFFFFF.svg)](#-项目介绍-)
   [![](https://img.shields.io/badge/-第三方插件-FFFFFF.svg)](#-第三方插件-)
   [![](https://img.shields.io/badge/-支持设备-FFFFFF.svg)](#-支持设备-)
   [![](https://img.shields.io/badge/-项目截图-FFFFFF.svg)](#-项目截图-)
   [![](https://img.shields.io/badge/-Thanks-FFFFFF.svg)](#-Thanks-)
-  [![](https://img.shields.io/badge/-免责声明-FFFFFF.svg)](#-免责声明-)
+  [![](https://img.shields.io/badge/-免责声明-FFFFFF.svg)](#免责声明-)
 </div>
 
 ---
@@ -75,12 +75,12 @@
 - [istoreos-builder](https://github.com/wukongdaily/istoreos-builder)
 - [amlogic-s9xxx-openwrt](https://github.com/ophub/amlogic-s9xxx-openwrt)
 
-## ⚠️ 免责声明 [![](https://img.shields.io/badge/-免责声明-FFFFFF.svg)](#-免责声明-)
+## ⚠️ 免责声明 [![](https://img.shields.io/badge/-免责声明-FFFFFF.svg)](#免责声明-)
 - 📚 本固件仅供学习研究，严禁用于任何商业用途
 - 🤝 使用本固件产生的所有后果均由使用者自行承担
 - ⚠️ 固件仍可能存在缺陷，开发者不提供任何形式的技术支持
 - 📜 请严格遵守国家网络安全法律法规，合法使用
 
-<a href="#-readme-">
+<a href="#readme">
 <img src="https://img.shields.io/badge/-返回顶部-FFFFFF.svg" title="返回顶部" align="right"/>
 </a>
